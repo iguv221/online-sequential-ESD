@@ -1,5 +1,5 @@
 
-# Automated Online Sequential ESD (Python)
+# Automated Online Sequential ESD (R)
 
 This package includes Python codes for online sequential ESD(osESD), a variation of GESD tests.  
 It is a statistical testing method for anomaly detection in univariate time series datasets.  
