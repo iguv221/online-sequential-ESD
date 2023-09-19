@@ -1,0 +1,37 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: online sequential ESD
+message: >-
+  This package includes Python codes for online sequential
+  ESD(osESD), a variation of GESD tests.
+type: software
+authors:
+  - given-names: Sung Woo
+    family-names: Kim
+    email: iguv7447@hanyang.ac.kr
+    affiliation: Hanyang University
+    orcid: 'https://orcid.org/0009-0006-1841-6858'
+  - given-names: 'Kichun '
+    family-names: Lee
+    email: skylee@hanyang.ac.kr
+    affiliation: Hanyang University
+    orcid: 'https://orcid.org/0000-0002-5184-7151'
+repository-code: >-
+  https://github.com/iguv221/online-sequential-ESD-python.git
+url: 'https://github.com/iguv221/online-sequential-ESD-python'
+repository: 'https://github.com/iguv221/online-sequential-ESD-R.git'
+repository-artifact: 'https://github.com/iguv221/online-sequential-ESD-R'
+abstract: >-
+  online sequential osESD and an automated version of it for
+  univariate time series anomaly detection.
+keywords:
+  - Time Series
+  - Online Learning
+  - Anomaly Detection
+  - Python
+  - R
+license: CC-BY-3.0
+commit: first update
+version: '1.0'
